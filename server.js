@@ -34,7 +34,22 @@ var blogs = {
                 <a href="/">main page</a>
         </div>`
     },
-    'blog-two': {},
+    'blog-two': { title: 'blog two',
+        heading: 'my friends',
+        list: `  <ul>
+            <a href="https://discourse.imad.hasura.io/u/Zara_AR/summary"><li>Zahra Abdur Rahman</li></a>
+            <li>Shirin Fathima</li>
+            <li>Sharafunnisha</li>
+            <li>Syed Fathima Sahana</li>
+            <li>Jafrin</li>
+            <li>aabidha Farheen</li>
+            <li>ayman ahmad</li>
+            <li> and lots more...</li>
+        </ul> `,
+        content:` <hr>
+        <a href="/">main page</a><br>
+        <a href="http://fzanofer66.imad.hasura-app.io/blog-one">my first blog</a>`
+    },
     'blog-three': {}
 };
 
