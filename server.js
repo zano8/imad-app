@@ -73,8 +73,9 @@ app.get('/', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'index.html'));
 });
 
-app.get('/blog-one', function (req, res) {
-  res.send(createtemplate(blog-one));
+app.get('/:blogname', function (req, res) {
+    var blogname = req.params.blogname;
+  res.send(createtemplate(blogs[blogname]));
 });
 
 app.get('/blog-two', function (req, res) {
