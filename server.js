@@ -50,7 +50,23 @@ var blogs = {
         <a href="/">main page</a><br>
         <a href="http://fzanofer66.imad.hasura-app.io/blog-one">my first blog</a>`
     },
-    'blog-three': {}
+    'blog-three': {
+        title: 'blog three',
+        heading: 'animals',
+        list: `
+        <ul><li>eagle</li>
+        <li>dragon</li>
+        <li>snake</li>
+        <li>electric eel</li>
+        <li>butterfly</li>
+        <li>wolf</li>
+        </ul>`,
+        content: `<hr>
+        <a href="/">main page</a>
+        <a href="fzanofer.imad.hasura-app.io/blog-one">blog one</a>
+        <a href="fzanofer.imad.hasura-app.io/blog-two">blog two</a>
+        <hr>
+    },
 };
 
 function createtemplate(data)  {
