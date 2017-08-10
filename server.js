@@ -46,7 +46,9 @@ var blogs = {
             <li>ayman ahmad</li>
             <li> and lots more...</li>
         </ul> `,
-        content:` <hr>
+        content:`
+        <img src="https://lh3.googleusercontent.com/YfoOYaYYAWvHs5_Yto69cKGtwTz_cyQXxDvrHx05zRDlzUog44-p4utyn9Md2Qo_7BncDk-fS44=w640-h400-e365">
+        <hr>
         <a href="/">main page</a><br>
         <a href="http://fzanofer66.imad.hasura-app.io/blog-one">my first blog</a>`
     },
