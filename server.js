@@ -81,7 +81,8 @@ function createtemplate(data)  {
     var list = data.list;
     var content = data.content;
     
-    var htmltemplate = `<html>
+    var htmltemplate = `
+    <html>
     <head>
         <title>
          ${title}
@@ -99,7 +100,8 @@ function createtemplate(data)  {
             ${content}
         
     </body>
-</html>`;
+    </html>
+`;
 return htmltemplate;
 };
 
