@@ -71,7 +71,7 @@ var blogs = {
         <a href="/">main page</a>
         <a href="fzanofer.imad.hasura-app.io/blog-one">blog one</a>
         <a href="fzanofer.imad.hasura-app.io/blog-two">blog two</a>
-        <hr>
+        <hr>`
     },
 };
 
