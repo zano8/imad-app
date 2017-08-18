@@ -69,8 +69,8 @@ var blogs = {
         </div>
         <hr>
         <a href="/">main page</a>
-        <a href="fzanofer.imad.hasura-app.io/blog-one">blog one</a>
-        <a href="http://fzanofer.imad.hasura-app.io/blog-two">blog two</a>
+        <a href="http://fzanofer66.imad.hasura-app.io/blog-one">blog one</a>
+        <a href="http://fzanofer66.imad.hasura-app.io/blog-two">blog two</a>
         <hr>`
     },
 };
